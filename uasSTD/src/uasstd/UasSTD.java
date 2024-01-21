@@ -42,6 +42,9 @@ public class UasSTD {
         daftarKamar.add(new Kamar("Deluxe", "D001", 700000, true));
         daftarKamar.add(new Kamar("Standard", "S001", 300000, true));
 
+        System.out.print("hgfueyfueeiygesssssssssssgfeftfutfuetfuetfu");
+    
+
         Scanner scanner = new Scanner(System.in);
 
         boolean isProgramBerjalan = true;
